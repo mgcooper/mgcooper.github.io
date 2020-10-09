@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Matt Cooper"
 title_separator          : "-"
 name                     : &name "Matt Cooper"
-description              : &description "PhD"
+description              : &description "Postdoctoral Research Associate"
 url                      : https://mgcooper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mgcooper/mgcooper.github.io"
-teaser                   :  "Cooper_Geography.jpg"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Matt Cooper"
-  avatar           : "profile.png"
-  bio              : "PhD"
-  location         : "Location"
+  avatar           : "Cooper_Geography.png"
+  bio              : "Postdoctoral Research Associate"
+  location         : "Pacific Northwest National Laboratory"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=TzNYIJQAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Matthew_Cooper14"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mgcooper"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mguycooper/"
+  orcid            : "https://orcid.org/0000-0002-0165-209X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mattguycooper"
   vine             :
   weibo            :
   xing             :
