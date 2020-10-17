@@ -13,4 +13,7 @@ main:
     url: /research/
         
   - title: "Technical Journal"
-    url: /technical/
+    url: /journal/
+    
+  - title: "Links"
+    url: /links/    
