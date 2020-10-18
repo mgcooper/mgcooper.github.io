@@ -1,7 +1,7 @@
 ---
 title: "Climate Elasticity of Low Flows in the Maritime Western U.S. Mountains"
 collection: publications
-permalink: /low-flows
+permalink: publications/low-flows
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/lowflows.pdf'
