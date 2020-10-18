@@ -8,4 +8,4 @@ paperurl: 'https://www.the-cryosphere.net/12/955/2018/'
 citation: 'Cooper, M.G., Smith, L.C., Rennermalm, A.K., Miège, C., Pitcher, L.H, Ryan, J.C., Yang, K., and Cooley, S.W. (2018). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 12(3).'
 ---
 
-[Download paper here](https://www.the-cryosphere.net/12/955/2018/)
+[Download paper here](http://mgcooper.github.io/files/Cooper_et_al_2018_weathering_crust.pdf)
