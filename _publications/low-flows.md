@@ -2,10 +2,10 @@
 title: "Climate Elasticity of Low Flows in the Maritime Western U.S. Mountains"
 collection: publications
 permalink: publications/low-flows
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/lowflows.pdf'
+date: 2018
+venue: 'Water Resources Research'
+paperurl: 'http://academicpages.github.io/files/Cooper et al_2018_Climate Elasticity of Low Flows in the Maritime Western U.pdf'
 citation: 'Cooper, M.G., Schaperow, J.R., Cooley, S.W., Alam, S., Smith, L.C., and Lettenmaier, D.P. (2018). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 54(8).'
 ---
 
-[Download paper here](http://academicpages.github.io/files/lowflows.pdf)
+[Download paper here](http://academicpages.github.io/files/Cooper et al_2018_Climate Elasticity of Low Flows in the Maritime Western U.pdf)
