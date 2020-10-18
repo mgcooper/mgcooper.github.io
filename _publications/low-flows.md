@@ -4,7 +4,7 @@ collection: publications
 permalink: publications/low-flows
 date: 2018-07-19
 venue: 'Water Resources Research'
-paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018WR022816'
+
 ---
 
 [Download](http://mgcooper.github.io/files/Cooper_et_al_2018_low_flows.pdf)
